@@ -34,12 +34,19 @@ header{
     color: white;
     list-style: none;
 }
+span{
+    font-size: 50px;
+    border-radius: 3px;
+    color: rgb(82, 134, 246);
+    font-weight:bolder;
+}
 .head .logo{
-    width: 50px;
+   font-size: 30px;
     padding: 10px;
     padding-left: 20px;
     border-radius: 25px;
-    opacity: 0.5;
+    opacity: 1;
+    color: honeydew;
 }
 .fish .fish1 img{
 width: 200px;
